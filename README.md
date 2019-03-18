@@ -1,1 +1,0 @@
-# SLibExternalBin_libmysqlclient
